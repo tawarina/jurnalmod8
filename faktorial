@@ -28,7 +28,7 @@ public class Jurnal2 {
                 System.out.print(" ");
             }
             for(int k=1;k<=1;k--){
-                System.out.print("*");
+                System.out.print("o");
             }
             l-=2;           
             System.out.println(""); 
